@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hidden calculator</string>
+    <string name="calc">Калькулятор</string>
+    <string name="first_operand_title">Первый операнд</string>
+    <string name="second_operand_title">Второй операнд</string>
+    <string name="sum">+</string>
+    <string name="diff">-</string>
+    <string name="div">/</string>
+    <string name="mult">*</string>
+    <string name="result_text">Результат</string>
+    <string name="send_data_text">Передать данные</string>
+</resources>
